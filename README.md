@@ -15,12 +15,14 @@
 | `deckTypes[].ja` | 表示する日本語名 |
 | `deckTypes[].en` | 英語名（Limitless の表記） |
 | `deckTypes[].limitlessId` | Limitless のデッキ ID（`https://limitlesstcg.com/decks/<id>`）。まだ載っていなければ `null` |
+| `deckTypes[].icons` | 表示するポケモンのドット絵のキー（例：`rayquaza-mega`）。National Pokédex Icon Dex 由来の素材で、キーは Limitless のアイコン名に合わせる。アプリに同梱していないキーは、アプリの更新までは代わりの表示になる |
 
 並び順はアプリの選択肢の順になる（使われている順を目安にする）。
 
 ### 追加・変更のしかた
 
 - 日本で先に出たデッキタイプは、Limitless に載る前でも `limitlessId: null` で追加してよい。載ったら ID を足す
+- `icons` は表示に使うドット絵のキー。新しいキーを使う場合は、アプリ側の同梱素材にも追加する
 - 呼び方を変えるときは `ja` だけを直し、`id` は変えない
 - 使われなくなったデッキタイプも、過去の記録のために消さずに残す
 
