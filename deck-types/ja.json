@@ -1,0 +1,330 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-09",
+  "deckTypes": [
+    {
+      "id": "dragapult-ex",
+      "ja": "ドラパルトex",
+      "en": "Dragapult ex",
+      "limitlessId": 284
+    },
+    {
+      "id": "slowking-seek-inspiration",
+      "ja": "ヤドキング",
+      "en": "Slowking Seek Inspiration",
+      "limitlessId": 322
+    },
+    {
+      "id": "raging-bolt-ex",
+      "ja": "タケルライコex",
+      "en": "Raging Bolt ex",
+      "limitlessId": 280
+    },
+    {
+      "id": "mega-excadrill-ex",
+      "ja": "メガドリュウズex",
+      "en": "Mega Excadrill ex",
+      "limitlessId": 376
+    },
+    {
+      "id": "mega-rayquaza-ex",
+      "ja": "メガレックウザex",
+      "en": "Mega Rayquaza ex",
+      "limitlessId": 377
+    },
+    {
+      "id": "lillies-clefairy-ex",
+      "ja": "リーリエのピッピex",
+      "en": "Lillie's Clefairy ex",
+      "limitlessId": 326
+    },
+    {
+      "id": "marnies-grimmsnarl-ex",
+      "ja": "マリィのオーロンゲex",
+      "en": "Marnie's Grimmsnarl ex",
+      "limitlessId": 329
+    },
+    {
+      "id": "ethans-typhlosion",
+      "ja": "ヒビキのバクフーン",
+      "en": "Ethan's Typhlosion",
+      "limitlessId": 333
+    },
+    {
+      "id": "festival-lead",
+      "ja": "カミッチュ バチンキー",
+      "en": "Festival Lead",
+      "limitlessId": 336
+    },
+    {
+      "id": "basic-box",
+      "ja": "たねポケモンボックス",
+      "en": "Basic Box",
+      "limitlessId": 339
+    },
+    {
+      "id": "mega-venusaur-ex",
+      "ja": "メガフシギバナex",
+      "en": "Mega Venusaur ex",
+      "limitlessId": 346
+    },
+    {
+      "id": "alakazam-powerful-hand",
+      "ja": "フーディン",
+      "en": "Alakazam Powerful Hand",
+      "limitlessId": 350
+    },
+    {
+      "id": "hydrapple-ex",
+      "ja": "カミツオロチex",
+      "en": "Hydrapple ex",
+      "limitlessId": 352
+    },
+    {
+      "id": "mega-starmie-ex",
+      "ja": "メガスターミーex",
+      "en": "Mega Starmie ex",
+      "limitlessId": 362
+    },
+    {
+      "id": "ns-zoroark-ex",
+      "ja": "Nのゾロアークex",
+      "en": "N's Zoroark ex",
+      "limitlessId": 320
+    },
+    {
+      "id": "mega-lopunny-ex",
+      "ja": "メガミミロップex",
+      "en": "Mega Lopunny ex",
+      "limitlessId": 353
+    },
+    {
+      "id": "mega-lucario-ex",
+      "ja": "メガルカリオex",
+      "en": "Mega Lucario ex",
+      "limitlessId": 345
+    },
+    {
+      "id": "crustle-mysterious-rock-inn",
+      "ja": "イワパレス",
+      "en": "Crustle Mysterious Rock Inn",
+      "limitlessId": 341
+    },
+    {
+      "id": "mega-sharpedo-ex",
+      "ja": "メガサメハダーex",
+      "en": "Mega Sharpedo ex",
+      "limitlessId": 354
+    },
+    {
+      "id": "stevens-metagross-ex",
+      "ja": "ダイゴのメタグロスex",
+      "en": "Steven's Metagross ex",
+      "limitlessId": 364
+    },
+    {
+      "id": "metagross-metal-maker",
+      "ja": "メタグロス",
+      "en": "Metagross Metal Maker",
+      "limitlessId": 361
+    },
+    {
+      "id": "rockets-mewtwo-ex",
+      "ja": "ロケット団のミュウツーex",
+      "en": "Rocket's Mewtwo ex",
+      "limitlessId": 337
+    },
+    {
+      "id": "rockets-honchkrow",
+      "ja": "ロケット団のドンカラス",
+      "en": "Rocket's Honchkrow",
+      "limitlessId": 356
+    },
+    {
+      "id": "cynthias-garchomp-ex",
+      "ja": "シロナのガブリアスex",
+      "en": "Cynthia's Garchomp ex",
+      "limitlessId": 332
+    },
+    {
+      "id": "hops-zacian",
+      "ja": "ホップのザシアン",
+      "en": "Hop's Zacian",
+      "limitlessId": 324
+    },
+    {
+      "id": "hops-trevenant",
+      "ja": "ホップのオーロット",
+      "en": "Hop's Trevenant",
+      "limitlessId": 363
+    },
+    {
+      "id": "ogerpon-meganium",
+      "ja": "オーガポン メガニウム",
+      "en": "Ogerpon Meganium",
+      "limitlessId": 351
+    },
+    {
+      "id": "mega-absol-box",
+      "ja": "メガアブソルボックス",
+      "en": "Mega Absol Box",
+      "limitlessId": 344
+    },
+    {
+      "id": "mega-kangaskhan-ex",
+      "ja": "メガガルーラex",
+      "en": "Mega Kangaskhan ex",
+      "limitlessId": 348
+    },
+    {
+      "id": "mega-manectric-ex",
+      "ja": "メガライボルトex",
+      "en": "Mega Manectric ex",
+      "limitlessId": 349
+    },
+    {
+      "id": "mega-greninja-ex",
+      "ja": "メガゲッコウガex",
+      "en": "Mega Greninja ex",
+      "limitlessId": 370
+    },
+    {
+      "id": "mega-chandelure-ex",
+      "ja": "メガシャンデラex",
+      "en": "Mega Chandelure ex",
+      "limitlessId": 375
+    },
+    {
+      "id": "mega-darkrai-ex",
+      "ja": "メガダークライex",
+      "en": "Mega Darkrai ex",
+      "limitlessId": 379
+    },
+    {
+      "id": "toxtricity-sinister-surge",
+      "ja": "ストリンダー",
+      "en": "Toxtricity Sinister Surge",
+      "limitlessId": 355
+    },
+    {
+      "id": "beedrill-ex",
+      "ja": "スピアーex",
+      "en": "Beedrill ex",
+      "limitlessId": 371
+    },
+    {
+      "id": "dhelmise-hide-n-sneak",
+      "ja": "ダダリン ジュペッタ",
+      "en": "Dhelmise Hide n' Sneak",
+      "limitlessId": 374
+    },
+    {
+      "id": "mew-box-memory-helix",
+      "ja": "ミュウ",
+      "en": "Mew Box Memory Helix",
+      "limitlessId": 378
+    },
+    {
+      "id": "toucannon-feather-rondo",
+      "ja": "ドデカバシ",
+      "en": "Toucannon Feather Rondo",
+      "limitlessId": 380
+    },
+    {
+      "id": "cinccino-ex",
+      "ja": "チラチーノex",
+      "en": "Cinccino ex",
+      "limitlessId": 381
+    },
+    {
+      "id": "joltik-box",
+      "ja": "バチュルボックス",
+      "en": "Joltik Box",
+      "limitlessId": 325
+    },
+    {
+      "id": "tera-box",
+      "ja": "ヨルノズク テラボックス",
+      "en": "Tera Box",
+      "limitlessId": 321
+    },
+    {
+      "id": "charizard-ex",
+      "ja": "リザードンex",
+      "en": "Charizard ex",
+      "limitlessId": 264
+    },
+    {
+      "id": "gardevoir-ex",
+      "ja": "サーナイトex",
+      "en": "Gardevoir ex",
+      "limitlessId": 255
+    },
+    {
+      "id": "gholdengo-ex",
+      "ja": "サーフゴーex",
+      "en": "Gholdengo ex",
+      "limitlessId": 267
+    },
+    {
+      "id": "greninja-ex",
+      "ja": "ゲッコウガex",
+      "en": "Greninja ex",
+      "limitlessId": 287
+    },
+    {
+      "id": "froslass-munkidori",
+      "ja": "ユキメノコ マシマシラ",
+      "en": "Froslass Munkidori",
+      "limitlessId": 288
+    },
+    {
+      "id": "bloodmoon-ursaluna-mad-bite",
+      "ja": "アカツキガチグマ",
+      "en": "Bloodmoon Ursaluna Mad Bite",
+      "limitlessId": 291
+    },
+    {
+      "id": "okidogi-adrena-power",
+      "ja": "イイネイヌ",
+      "en": "Okidogi Adrena-Power",
+      "limitlessId": 293
+    },
+    {
+      "id": "ceruledge-ex",
+      "ja": "ソウブレイズex",
+      "en": "Ceruledge ex",
+      "limitlessId": 299
+    },
+    {
+      "id": "archaludon-ex",
+      "ja": "ブリジュラスex",
+      "en": "Archaludon ex",
+      "limitlessId": 315
+    },
+    {
+      "id": "flareon-ex",
+      "ja": "ブースターex",
+      "en": "Flareon ex",
+      "limitlessId": 319
+    },
+    {
+      "id": "iron-thorns-ex",
+      "ja": "テツノイバラex",
+      "en": "Iron Thorns ex",
+      "limitlessId": 283
+    },
+    {
+      "id": "roaring-moon-ex",
+      "ja": "トドロクツキex",
+      "en": "Roaring Moon ex",
+      "limitlessId": 268
+    },
+    {
+      "id": "chien-pao-baxcalibur",
+      "ja": "パオジアン セグレイブ",
+      "en": "Chien-Pao Baxcalibur",
+      "limitlessId": 261
+    }
+  ]
+}
